@@ -1,2 +1,2 @@
 # FuterTube
-A Futuristic take on entertainment 
+Blockchain is the futer of content creation.
