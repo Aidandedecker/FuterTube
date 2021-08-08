@@ -1,2 +1,2 @@
 # FuterTube
-The Futuristic take on entertainment 
+A Futuristic take on entertainment 
